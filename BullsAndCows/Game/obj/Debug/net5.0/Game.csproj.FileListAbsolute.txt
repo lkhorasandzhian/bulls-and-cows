@@ -1,0 +1,16 @@
+C:\Users\Levon0\Downloads\GitHub\bulls-and-cows\BullsAndCows\Game\bin\Debug\net5.0\Game.exe
+C:\Users\Levon0\Downloads\GitHub\bulls-and-cows\BullsAndCows\Game\bin\Debug\net5.0\Game.deps.json
+C:\Users\Levon0\Downloads\GitHub\bulls-and-cows\BullsAndCows\Game\bin\Debug\net5.0\Game.runtimeconfig.json
+C:\Users\Levon0\Downloads\GitHub\bulls-and-cows\BullsAndCows\Game\bin\Debug\net5.0\Game.runtimeconfig.dev.json
+C:\Users\Levon0\Downloads\GitHub\bulls-and-cows\BullsAndCows\Game\bin\Debug\net5.0\Game.dll
+C:\Users\Levon0\Downloads\GitHub\bulls-and-cows\BullsAndCows\Game\bin\Debug\net5.0\Game.pdb
+C:\Users\Levon0\Downloads\GitHub\bulls-and-cows\BullsAndCows\Game\obj\Debug\net5.0\Game.csproj.AssemblyReference.cache
+C:\Users\Levon0\Downloads\GitHub\bulls-and-cows\BullsAndCows\Game\obj\Debug\net5.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levon0\Downloads\GitHub\bulls-and-cows\BullsAndCows\Game\obj\Debug\net5.0\Game.AssemblyInfoInputs.cache
+C:\Users\Levon0\Downloads\GitHub\bulls-and-cows\BullsAndCows\Game\obj\Debug\net5.0\Game.AssemblyInfo.cs
+C:\Users\Levon0\Downloads\GitHub\bulls-and-cows\BullsAndCows\Game\obj\Debug\net5.0\Game.csproj.CoreCompileInputs.cache
+C:\Users\Levon0\Downloads\GitHub\bulls-and-cows\BullsAndCows\Game\obj\Debug\net5.0\Game.dll
+C:\Users\Levon0\Downloads\GitHub\bulls-and-cows\BullsAndCows\Game\obj\Debug\net5.0\refint\Game.dll
+C:\Users\Levon0\Downloads\GitHub\bulls-and-cows\BullsAndCows\Game\obj\Debug\net5.0\Game.pdb
+C:\Users\Levon0\Downloads\GitHub\bulls-and-cows\BullsAndCows\Game\obj\Debug\net5.0\Game.genruntimeconfig.cache
+C:\Users\Levon0\Downloads\GitHub\bulls-and-cows\BullsAndCows\Game\obj\Debug\net5.0\ref\Game.dll
